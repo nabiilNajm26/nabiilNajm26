@@ -10,7 +10,7 @@
 # 📊 GitHub & Leetcode Stats:
 <table>
   <tr>
-    <td align="center"><img src="https://leetcard.jacoblin.cool/nabiil_najm266?ext=activity" alt="Leetcode Stats"></td>
+    <td align="center"><img src="https://leetcard.jacoblin.cool/nabiil_najm266?ext=heatmap" alt="Leetcode Stats"></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=nabiilnajm26&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"></td>
   </tr>
   <tr>
