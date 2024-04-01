@@ -22,16 +22,33 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nabiilNajm26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <h3>🏆 GitHub Profile Trophy</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=nabiilNajm26&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
+    </td>
+    <td>
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=nabiilNajm26&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nabiilNajm26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;">
+    </td>
+    <td width="50%">
+      <h3>😂 Random Dev Meme</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+    </td>
+  </tr>
+</table>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nabiilNajm26&icon=0&color=0)](https://visitcount.itsvg.in)
