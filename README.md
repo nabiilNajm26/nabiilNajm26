@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 In the 4th year of my computer science bachelor's program <br>🔭 I’m currently working on health information system for the elderly and pkk mothers <br>🌱 Still learning back-end and data engineering <br>⚡ Fun fact: I love anime, manhwa, and football !!
+🎓 In the 4th year of my computer science bachelor's program <br>🔭 I’m currently working on health information system for the elderly and pkk mothers <br>🌱 Still learning back-end and data engineering <br>⚡ Fun fact: I love football !!
 
 
 ## 🌐 Socials:
